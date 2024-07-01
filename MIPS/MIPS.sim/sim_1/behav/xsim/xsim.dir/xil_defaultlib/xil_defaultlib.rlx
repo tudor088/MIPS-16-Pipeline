@@ -1,0 +1,16 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+D:/Facultate/AN II/SEM 2/AC/MIPS/MIPS.srcs/sim_1/new/TEST_ENVIRONMENT.vhd,1713789477,vhdl,,,,test_environment,,,,,,,,
+D:/Facultate/AN II/SEM 2/AC/MIPS/MIPS.srcs/sources_1/new/ALU.vhd,1713713235,vhdl,,,,alu,,,,,,,,
+D:/Facultate/AN II/SEM 2/AC/MIPS/MIPS.srcs/sources_1/new/EXECUTE_UNIT.vhd,1717163577,vhdl,,,,execute_unit,,,,,,,,
+D:/Facultate/AN II/SEM 2/AC/MIPS/MIPS.srcs/sources_1/new/INSTRUCTION_DECODE.vhd,1717165116,vhdl,,,,instruction_decode,,,,,,,,
+D:/Facultate/AN II/SEM 2/AC/MIPS/MIPS.srcs/sources_1/new/INSTRUCTION_FETCH.vhd,1713254588,vhdl,,,,instruction_fetch,,,,,,,,
+D:/Facultate/AN II/SEM 2/AC/MIPS/MIPS.srcs/sources_1/new/MAIN_CONTROL.vhd,1714753957,vhdl,,,,main_control,,,,,,,,
+D:/Facultate/AN II/SEM 2/AC/MIPS/MIPS.srcs/sources_1/new/MEMORY_UNIT.vhd,1717160462,vhdl,,,,memory_unit,,,,,,,,
+D:/Facultate/AN II/SEM 2/AC/MIPS/MIPS.srcs/sources_1/new/MPG.vhd,1713265647,vhdl,,,,mpg,,,,,,,,
+D:/Facultate/AN II/SEM 2/AC/MIPS/MIPS.srcs/sources_1/new/RAM.vhd,1714756579,vhdl,,,,ram,,,,,,,,
+D:/Facultate/AN II/SEM 2/AC/MIPS/MIPS.srcs/sources_1/new/REGISTER_FILE.vhd,1717166409,vhdl,,,,register_file,,,,,,,,
+D:/Facultate/AN II/SEM 2/AC/MIPS/MIPS.srcs/sources_1/new/ROM.vhd,1717496384,vhdl,,,,rom,,,,,,,,
+D:/Facultate/AN II/SEM 2/AC/MIPS/MIPS.srcs/sources_1/new/TEST_ENVIRONMENT_DESIGN.vhd,1717163809,vhdl,,,,test_environment_design,,,,,,,,
